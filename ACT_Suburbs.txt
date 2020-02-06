@@ -1,0 +1,159 @@
+SuburbID	SuburbName
+1	Barton, ACT, 2600
+2	Capital Hill, ACT, 2600
+3	Deakin, ACT, 2600
+4	Deakin West, ACT, 2600
+5	Harman, ACT, 2600
+6	Hmas Harman, ACT, 2600
+7	Parkes, ACT, 2600
+8	Russell, ACT, 2600
+9	Yarralumla, ACT, 2600
+10	Acton, ACT, 2601
+11	Anu, ACT, 2601
+12	Canberra, ACT, 2601
+13	City, ACT, 2601
+14	Civic Square, ACT, 2601
+15	Inner North, ACT, 2601
+16	Newacton, ACT, 2601
+17	Ainslie, ACT, 2602
+18	Dickson, ACT, 2602
+19	Downer, ACT, 2602
+20	Hackett, ACT, 2602
+21	Lyneham, ACT, 2602
+22	North Lyneham, ACT, 2602
+23	O'Connor, ACT, 2602
+24	Watson, ACT, 2602
+25	Forrest, ACT, 2603
+26	Griffith, ACT, 2603
+27	Manuka, ACT, 2603
+28	Red Hill, ACT, 2603
+29	Kingston, ACT, 2604
+30	Narrabundah, ACT, 2604
+31	Curtin, ACT, 2605
+32	Garran, ACT, 2605
+33	Hughes, ACT, 2605
+34	Chifley, ACT, 2606
+35	Lyons, ACT, 2606
+36	O'Malley, ACT, 2606
+37	Phillip, ACT, 2606
+38	Southside, ACT, 2606
+39	Swinger Hill, ACT, 2606
+40	Woden, ACT, 2606
+41	Woden Valley, ACT, 2606
+42	Farrer, ACT, 2607
+43	Isaacs, ACT, 2607
+44	Mawson, ACT, 2607
+45	Pearce, ACT, 2607
+46	Torrens, ACT, 2607
+47	Airport, ACT, 2609
+48	Canberra Airport, ACT, 2609
+49	Fairbairn, ACT, 2609
+50	Fyshwick, ACT, 2609
+51	Majura, ACT, 2609
+52	Pialligo, ACT, 2609
+53	Symonston, ACT, 2609
+54	Chapman, ACT, 2611
+55	Coombs, ACT, 2611
+56	Coree, ACT, 2611
+57	Denman Prospect, ACT, 2611
+58	Duffy, ACT, 2611
+59	Fisher, ACT, 2611
+60	Holder, ACT, 2611
+61	McCubbin Rise, ACT, 2611
+62	Molonglo, ACT, 2611
+63	Molonglo Valley, ACT, 2611
+64	Rivett, ACT, 2611
+65	Stirling, ACT, 2611
+66	Stromlo, ACT, 2611
+67	Uriarra, ACT, 2611
+68	Uriarra Village, ACT, 2611
+69	Waramanga, ACT, 2611
+70	Weston, ACT, 2611
+71	Wright, ACT, 2611
+72	Bimberi, NSW, 2611
+73	Brindabella, NSW, 2611
+74	Braddon, ACT, 2612
+75	Campbell, ACT, 2612
+76	Duntroon, ACT, 2612
+77	Northside, ACT, 2612
+78	Reid, ACT, 2612
+79	Turner, ACT, 2612
+80	Aranda, ACT, 2614
+81	Cook, ACT, 2614
+82	Hawker, ACT, 2614
+83	Macquarie, ACT, 2614
+84	Page, ACT, 2614
+85	Scullin, ACT, 2614
+86	Weetangera, ACT, 2614
+87	Charnwood, ACT, 2615
+88	Dunlop, ACT, 2615
+89	Florey, ACT, 2615
+90	Flynn, ACT, 2615
+91	Fraser, ACT, 2615
+92	Ginninderra Estate, ACT, 2615
+93	Higgins, ACT, 2615
+94	Holt, ACT, 2615
+95	Latham, ACT, 2615
+96	MacGregor, ACT, 2615
+97	Macnamara, ACT, 2615
+98	Melba, ACT, 2615
+99	Spence, ACT, 2615
+100	Strathnairn, ACT, 2615
+101	Belconnen, ACT, 2617
+102	Belconnen Town Centre, ACT, 2617
+103	Bruce, ACT, 2617
+104	Emu Ridge, ACT, 2617
+105	Evatt, ACT, 2617
+106	Giralang, ACT, 2617
+107	Kaleen, ACT, 2617
+108	Lawson, ACT, 2617
+109	McKellar, ACT, 2617
+110	South Bruce, ACT, 2617
+111	Greenway, ACT, 2900
+112	Tuggeranong, ACT, 2900
+113	Gleneagles, ACT, 2902
+114	Kambah, ACT, 2902
+115	Oxley, ACT, 2903
+116	Wanniassa, ACT, 2903
+117	Wanniassa Hills, ACT, 2903
+118	Fadden, ACT, 2904
+119	Fadden Hills, ACT, 2904
+120	Gowrie, ACT, 2904
+121	Macarthur, ACT, 2904
+122	Monash, ACT, 2904
+123	Monash Ridge, ACT, 2904
+124	Bonython, ACT, 2905
+125	Calwell, ACT, 2905
+126	Chisholm, ACT, 2905
+127	Gilmore, ACT, 2905
+128	Isabella Plains, ACT, 2905
+129	Melrose Valley, ACT, 2905
+130	Richardson, ACT, 2905
+131	Theodore, ACT, 2905
+132	Banks, ACT, 2906
+133	Conder, ACT, 2906
+134	Conder Ridge, ACT, 2906
+135	Eastern Valley Rise, ACT, 2906
+136	Gordon, ACT, 2906
+137	Crace, ACT, 2911
+138	Mitchell, ACT, 2911
+139	Gungahlin, ACT, 2912
+140	Gungahlin District, ACT, 2912
+141	Yerrabi, ACT, 2912
+142	Broadview, ACT, 2913
+143	Casey, ACT, 2913
+144	Franklin, ACT, 2913
+145	Ginninderra Village, ACT, 2913
+146	Harcourt Hill, ACT, 2913
+147	Ngunnawal, ACT, 2913
+148	Nicholls, ACT, 2913
+149	Palmerston, ACT, 2913
+150	Springbank Rise, ACT, 2913
+151	Taylor, ACT, 2913
+152	Amaroo, ACT, 2914
+153	Bonner, ACT, 2914
+154	Forde, ACT, 2914
+155	Harrison, ACT, 2914
+156	Jacka, ACT, 2914
+157	Moncrieff, ACT, 2914
+158	Throsby, ACT, 2914
