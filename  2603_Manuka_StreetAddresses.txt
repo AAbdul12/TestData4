@@ -1,0 +1,20 @@
+StreetAddressID	StreetAddress	StreetAddressURL	StreetID
+30425	1 manuka circle	1-37-manuka-circle-griffith-act-2603/201051906811	833
+30426	1 manuka circle	1-39-manuka-circle-griffith-act-2603/20325165711	833
+30427	1 manuka circle	1-manuka-circle-griffith-act-2603/20870173711	833
+30428	10 manuka circle	10-39-manuka-circle-griffith-act-2603/2042691211	833
+30429	14 manuka circle	14-manuka-circle-griffith-act-2603/201317006911	833
+30430	2 manuka circle	2-39-manuka-circle-griffith-act-2603/20648195011	833
+30431	23 manuka circle	23-manuka-circle-griffith-act-2603/20890362111	833
+30432	3 manuka circle	3-39-manuka-circle-griffith-act-2603/201132597611	833
+30433	3 manuka circle	3-manuka-circle-griffith-act-2603/20163713311	833
+30434	30 manuka circle	30-manuka-circle-griffith-act-2603/201317007011	833
+30435	39 manuka circle	39-manuka-circle-griffith-act-2603/20506831111	833
+30436	4 manuka circle	4-39-manuka-circle-griffith-act-2603/20486635311	833
+30437	5 manuka circle	5-39-manuka-circle-griffith-act-2603/20749054611	833
+30438	5 manuka circle	5-manuka-circle-griffith-act-2603/2042691111	833
+30439	6 manuka circle	6-39-manuka-circle-griffith-act-2603/20466475011	833
+30440	7 manuka circle	7-39-manuka-circle-griffith-act-2603/201072077311	833
+30441	7 manuka circle	7-manuka-circle-griffith-act-2603/201233449311	833
+30442	8 manuka circle	8-39-manuka-circle-griffith-act-2603/20466475111	833
+30443	9 manuka circle	9-39-manuka-circle-griffith-act-2603/20890362211	833
