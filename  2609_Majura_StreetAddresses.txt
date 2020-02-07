@@ -1,0 +1,25 @@
+StreetAddressID	StreetAddress	StreetAddressURL	StreetID
+62247	540 pialligo avenue	540-pialligo-avenue-majura-act-2609/20827582111	1704
+62248	583 pialligo avenue	583-pialligo-avenue-majura-act-2609/201069807311	1704
+62249	705 pialligo avenue	705-pialligo-avenue-majura-act-2609/20989068511	1704
+62250	11 scherger drive	11-scherger-drive-majura-act-2609/201678342811	1705
+62251	25 scherger drive	25-scherger-drive-majura-act-2609/201678342911	1705
+62252	5 scherger drive	5-scherger-drive-majura-act-2609/201678343011	1705
+62253	7 scherger drive	7-scherger-drive-majura-act-2609/201678343111	1705
+62254	9 scherger drive	9-scherger-drive-majura-act-2609/201678343211	1705
+62255	235 sutton road	235-sutton-road-majura-act-2609/20847760111	1706
+62256	441 sutton road	441-sutton-road-majura-act-2609/20605614211	1706
+62257	585 sutton road	585-sutton-road-majura-act-2609/20605614311	1706
+62258	609 sutton road	609-sutton-road-majura-act-2609/201466269911	1706
+62259	855 sutton road	855-sutton-road-majura-act-2609/201130334911	1706
+62260	3 tindal lane	3-tindal-lane-majura-act-2609/201316636011	1707
+62261	33 tindal lane	33-tindal-lane-majura-act-2609/201316749511	1707
+62262	35 tindal lane	35-tindal-lane-majura-act-2609/201316749611	1707
+62263	37 tindal lane	37-tindal-lane-majura-act-2609/201316749711	1707
+62264	38 tindal lane	38-tindal-lane-majura-act-2609/201316628611	1707
+62265	39 tindal lane	39-tindal-lane-majura-act-2609/201316629511	1707
+62266	40 tindal lane	40-tindal-lane-majura-act-2609/201316636911	1707
+62267	41 tindal lane	41-tindal-lane-majura-act-2609/201316641811	1707
+62268	42 tindal lane	42-tindal-lane-majura-act-2609/201316642711	1707
+62269	43 tindal lane	43-tindal-lane-majura-act-2609/201316643611	1707
+62270	44 tindal lane	44-tindal-lane-majura-act-2609/201316645411	1707
