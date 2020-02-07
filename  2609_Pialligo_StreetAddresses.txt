@@ -1,0 +1,7 @@
+StreetAddressID	StreetAddress	StreetAddressURL	StreetID
+62271	1030 majura road	1030-majura-road-pialligo-act-2609/201668334511	1708
+62272	878 majura road	878-majura-road-pialligo-act-2609/20668659511	1708
+62273	384 pialligo avenue	384-pialligo-avenue-pialligo-act-2609/20931153511	1716
+62274	460 pialligo avenue	460-pialligo-avenue-pialligo-act-2609/201052230011	1716
+62275	469 pialligo avenue	469-pialligo-avenue-pialligo-act-2609/20830161011	1716
+62276	540 pialligo avenue	540-pialligo-avenue-pialligo-act-2609/201316660711	1716
