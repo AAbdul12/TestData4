@@ -1,0 +1,3 @@
+StreetAddressID	StreetAddress	StreetAddressURL	StreetID
+136838	university university drive	university-drive-bruce-act-2617/1931537310	4536
+136839	university university drive	university-drive-north-bruce-act-2617/1931537210	4536
